@@ -2,7 +2,7 @@ package Zlata.week1;
 
 public class OddOrEven {
 
-        public static void OddOrEven1(int n) {
+        public static void oddOrEven1(int n) {
             if (n % 2 == 0) {
                 System.out.println("Number " + n + " is even.");
             }else{
@@ -10,7 +10,7 @@ public class OddOrEven {
             }
         }
         public static void main(String[] args) {
-            OddOrEven1(7);
-            OddOrEven1(426);
+            oddOrEven1(5);
+            oddOrEven1(6);
         }
 }
