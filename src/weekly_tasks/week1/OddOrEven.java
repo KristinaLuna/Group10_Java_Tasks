@@ -3,17 +3,16 @@ package weekly_tasks.week1;
 public class OddOrEven {
 
 
-    public static int OddOrEven(int n) {
+    public static void OddOrEven1(int n) {
         if (n % 2 == 0) {
             System.out.println("Number " + n + " is even.");
         }else{
             System.out.println("Number " + n + " is odd.");
         }
-        return n;
     }
     public static void main(String[] args) {
-        OddOrEven(7);
-        OddOrEven(426);
+        OddOrEven1(7);
+        OddOrEven1(426);
 
 
 
