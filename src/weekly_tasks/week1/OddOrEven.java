@@ -7,9 +7,18 @@ public class OddOrEven {
         //second step
 
 
-
-
-
-
+        int number = 28;
+        if (number % 2 == 0) {
+            System.out.println(number + " = even");
+        }
+        else {  System.out.println(number + " = odd");}
     }
 }
+
+
+
+
+
+
+
+
