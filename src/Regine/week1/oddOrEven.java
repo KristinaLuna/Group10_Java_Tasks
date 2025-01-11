@@ -4,5 +4,7 @@ public class oddOrEven {
 
     public static void main(String[] args) {
         //SOLVED - solution below
+
+        //mine
     }
 }
