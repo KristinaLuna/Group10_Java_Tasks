@@ -1,4 +1,4 @@
-package Zlata.week1;
+package Zlata.Week1;
 
 public class OddOrEven {
 
