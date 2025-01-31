@@ -12,10 +12,6 @@ public class ReverseANegativeNumber {
         int number = -35;
         int reversed = 0;
 
-        if (number >= 0){
-            System.out.println("Error! Enter negative number");
-        }
-
         int num = -number; //converted number to positive
 
         while (num > 0){
