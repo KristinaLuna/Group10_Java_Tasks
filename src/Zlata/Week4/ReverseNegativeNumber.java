@@ -15,6 +15,7 @@ public class ReverseNegativeNumber {
         }
         return reversed;
     }
+
     public static void main(String[] args) {
         System.out.println(reverseNegativeNumber(12));
         System.out.println(reverseNegativeNumber(-1356));
