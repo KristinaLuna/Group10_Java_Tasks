@@ -12,6 +12,7 @@ public class FrequencyOfCharacters {
         }
         return result; //Returns the final result
     }
+
     public static void main(String[] args) {
         System.out.println(frequencyOfCharacters("AAABBCDD")); //Output A3B2C1D2
         System.out.println(frequencyOfCharacters("ZZZZLLLATIKKKk")); //Output Z4L3A1T1I1K3k1
