@@ -2,7 +2,9 @@ package onauma.week7;
 
 public class UniqueString {
     public static void main(String[] args) {
+
         System.out.println(unique("AAABBBCCCDEF"));
+
     }
 
     public static String unique(String str) {
