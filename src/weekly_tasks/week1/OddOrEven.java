@@ -3,13 +3,10 @@ package weekly_tasks.week1;
 public class OddOrEven {
     public static void main(String[] args) {
 
-        // solution:
-        //second step
+        //Write  a method which can identify that a  given number is even or od
 
 
-
-
-
-
+        // identifyOddEven(5);
+        // identifyOddEven(6);
     }
 }
